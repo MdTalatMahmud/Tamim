@@ -13,7 +13,8 @@ body{
 
 
 .FullNav{
-	border-top-style: ridge;
+	border-bottom-style: ridge;
+	/*border-top-style: ridge;*/
 	/*position: -webkit-sticky;
 	text-align: center;*/
 
