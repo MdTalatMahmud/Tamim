@@ -1,0 +1,82 @@
+body{
+	background-image: url("2.jpg");
+	background-repeat: no-repeat;
+	background-position: top right;
+}
+
+
+.navbar-header{
+	
+	
+	/*position: -webkit-sticky;*/
+}
+
+
+.FullNav{
+	border-bottom-style: ridge;
+	/*border-top-style: ridge;*/
+	/*position: -webkit-sticky;
+	text-align: center;*/
+
+}
+
+.a{
+	/*text-align: center;*/
+}
+
+#sss{
+	/*text-align: center;*/
+}
+
+
+div.sss{
+	position: absolute;
+    right:  90px;
+}
+
+
+div.navbar-header{
+	position: absolute;
+    left:  60px;
+}
+
+
+
+div.para_one{
+	margin-left: 7%;
+	top: 300px;
+    left:  30px;
+    text-align: all;
+
+}
+
+div.para_two{
+	top: 600px;
+	left: 50px;
+	margin-left: 13%;
+	/*font-size: 50px;*/
+
+}
+
+div.para_three{
+	top: 600px;
+	left: 50px;
+	margin-left: 13%;
+}
+
+div.DrName{
+	margin-left: 3%;
+}
+
+
+
+div.appointment{
+	margin-left: 37%;
+
+}
+
+div.FormFillup{
+	margin-left: 35%;
+	margin-right: 35%;
+
+}
